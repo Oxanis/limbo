@@ -4,6 +4,11 @@ body {
   margin-left: 320px;
   margin-right: 320px;
 }
-.ms {
+.title {
   font-family: monospace;
+}
+.info {
+  font-family: monospace;
+  margin-left: 400px;
+  margin-right: 400px;
 }
